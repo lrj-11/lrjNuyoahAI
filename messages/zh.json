@@ -1,6 +1,6 @@
 {
   "Product": {
-    "name": "ScriptCraft",
+    "name": "吹壳子的waiwai",
     "solgan": "创意到剧本，AI全程助力。"
   },
   "LandingPage": {
@@ -50,10 +50,10 @@
       }
     },
     "Header": {
-      "workflow": "工作流程",
-      "features": "功能",
-      "about": "关于我们",
-      "pricing": "定价",
+      "workflow": "关于我",
+      "features": "情绪价值",
+      "about": "专业领域",
+      "pricing": "联系我",
       "signUp": "注册"
     },
     "Footer": {
